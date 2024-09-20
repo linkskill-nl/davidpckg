@@ -2,7 +2,7 @@
     "name": "linkskill-nl/davidpckg",
     "description": "A simple PHP package that says hello",
     "type": "library",
-    "license": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "Davoud Majidi",
