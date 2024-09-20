@@ -1,0 +1,20 @@
+{
+    "name": "vendor/davidpckg",
+    "description": "A simple PHP package that says hello",
+    "type": "library",
+    "license": "",
+    "authors": [
+        {
+            "name": "Davoud Majidi",
+            "email": "davoud.majidi.15@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyPackage\\": "src/"
+        }
+    }
+}
